@@ -1,0 +1,4 @@
+enum HttpMethod {
+  Get,
+  Post
+}
